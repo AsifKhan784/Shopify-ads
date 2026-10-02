@@ -1,5 +1,5 @@
 """
-VXO Checker — Shopify Checkout Engine (v2.4 — operation ID discovery hardened)
+MOVA Checker — Shopify Checkout Engine (v2.4 — operation ID discovery hardened)
 ================================================================================
 """
 import json
