@@ -1,6 +1,3 @@
-"""
-CardCheckout API — Server Entry Point (optimized)
-"""
 import os
 import asyncio
 import concurrent.futures
