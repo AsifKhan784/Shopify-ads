@@ -1,8 +1,3 @@
-"""
-VXO Checker — Shopify Checkout Engine (v2.5 — no-persisted-id)
-================================================================
-Shopify resolves operations by operationName alone. No 64-hex IDs.
-"""
 import json
 import random
 import re
