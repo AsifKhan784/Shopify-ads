@@ -1,8 +1,3 @@
-"""
-VXO Checker — Shopify Checkout Engine (optimized)
-==================================================
-Same public API as before. Faster, safer, smarter.
-"""
 import json
 import random
 import re
