@@ -1,13 +1,3 @@
-"""
-VXO Checker — Shopify Checkout Engine (v2.7)
-=============================================
-- Empty partial-address fields omitted at steps 4/5 (fixes HTTP 400)
-- checkpointData forwarded from proposal → submit (kills most CAPTCHA_REQUIRED)
-- Human-like pauses between proposal steps
-- 429-aware product fetcher
-- Noise filter for early-proposal address warnings
-- No persisted-query ids (server resolves by operationName)
-"""
 import json
 import random
 import re
