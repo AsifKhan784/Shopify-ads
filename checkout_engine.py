@@ -1,13 +1,3 @@
-"""
-VXO Checker — Shopify Checkout Engine (v2.7)
-=============================================
-- Empty address for early proposals (steps 4/5), real address for step 6+
-- checkpointData propagated from proposal → submit (kills most CAPTCHA_REQUIRED)
-- Human-like pauses between proposal steps
-- 429-aware product fetcher
-- Noise filter for early-proposal address warnings
-- No persisted-query ids (server resolves by operationName)
-"""
 import json
 import random
 import re
