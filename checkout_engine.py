@@ -1,8 +1,3 @@
-"""
-VXO Checker — Shopify Checkout Engine (v2.3 — actions-JS hardened)
-==================================================================
-Same public API. Adds fallback chain for locating actions JS.
-"""
 import json
 import random
 import re
